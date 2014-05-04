@@ -1,3 +1,10 @@
+This repository is deprecated…
+==============================
+
+…and superseded by this one: https://github.com/lpirl/grequalizer
+
+----------------------
+
 This script maintains the home directories for users.
 
 For example, use this script to provide an
